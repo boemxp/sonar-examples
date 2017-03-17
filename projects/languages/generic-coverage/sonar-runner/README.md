@@ -12,3 +12,4 @@ Usage
 * Analyze the project with SonarQube using the SonarQube Scanner:
 
         sonar-scanner
+Test
